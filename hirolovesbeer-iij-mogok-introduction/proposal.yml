@@ -1,0 +1,33 @@
+---
+presenters:
+  - name:
+      en: Hiroshi ABE
+      ja: 阿部 博
+    github: hirolovesbeerd
+    affiliation:
+      en: Internet Initiative Japan Inc.
+      ja: 株式会社インターネットイニシアティブ
+    bio:
+      en: Software Engineer, especially about Cloud Computing
+      ja: クラウドというバズワードに踊らされるソフトウェア/システム/クラウド設計開発者。
+title:
+  en: |-
+    Introduction about IIJ MOGOK for RubyPaaS
+  ja: |-
+    でるぞでるぞとい言われてなかなかでないけどそろそろ出そうなIIJ MOGOKのご紹介
+abstract: 
+  en: |-
+    IIJ announced about MOGOK(RubyPaaS) in last year's RubyWorld Conference.
+    But after that... Does IIJ develop MOGOK yet? What is closed bata status?
+    When open bata will release?
+    I introduce you the new status of MOGOK.
+  ja: |-
+    昨年のRubyWorld Conferenceで発表されたRubyPaaSであるIIJ MOGOKのその後についてお話します。
+    なんですぐに出ないの？どれだけ待たせるの？クローズドβって使っている人いるの？など、
+    実際に今どのような状況かをご紹介します。
+language: Japanese
+references:
+  en: |-
+    - [My twitter](https://twitter.com/#!/hirolovesbeer)
+  ja: |-
+    - [My twitter](https://twitter.com/#!/hirolovesbeer)
